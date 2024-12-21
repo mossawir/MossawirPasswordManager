@@ -11,3 +11,4 @@ Mossawir Password Manager is a secure and user-friendly application designed to 
 - **Secure Sharing**: Share passwords securely with trusted contacts without compromising security.
 - **Cross-Platform Support**: Available on multiple platforms for seamless access to your passwords.
  
+## Serials numbers for installer Included in Serials.txt
